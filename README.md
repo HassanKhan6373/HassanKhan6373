@@ -1,4 +1,3 @@
-Here's an updated version of your profile with the new title and skills:
 
 ---
 
