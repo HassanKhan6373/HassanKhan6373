@@ -39,7 +39,8 @@ Versatile Full Stack Developer 🚀 | MERN & MEAN Maestro | Smart Contract Creat
 
 ## 📚 Education
 
-- Bachelor's Degree in Software Engineering from Virtual University Of Pakistan.
+- Bachelor's Degree in Electronics from Usman Institute of Technology.
+- Master's Degree in Computer Science with specialization in Data Science from Bahria University.
 
 ## 📫 Contact Me
 
